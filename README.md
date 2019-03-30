@@ -28,8 +28,8 @@ yarn start
 
 ---
 **Credits**
-Thanks to the good friends at [The React Team](https://github.com/facebook/create-react-app).
-Thanks to the good teams and designers at [Grommet](https://github.com/grommet)
-Made with ❤️ by Jonathan Filbert
+Thanks to the good friends at [The React Team](https://github.com/facebook/create-react-app).  
+Thanks to the good teams and designers at [Grommet](https://github.com/grommet).  
+*Made with ❤️ by Jonathan Filbert*
 
 
